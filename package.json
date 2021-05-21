@@ -24,6 +24,7 @@
     "webpack-merge": "^5.7.3"
   },
   "dependencies": {
+    "@pinkypinky/vue-employee-query": "^1.0.1",
     "vue": "^2.6.12"
   }
 }
